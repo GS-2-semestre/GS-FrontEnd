@@ -81,6 +81,11 @@ margin-right: 35%;
     text-align: justify;
 }
 
+.como{
+    max-width: 1050px;
+    margin: 10px 0px;
+}
+
 .lista-tag{
     margin: 20px 60px 20px 0px;
     padding: 10px;
